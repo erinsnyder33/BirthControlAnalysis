@@ -51,7 +51,7 @@ MIN: rash: -0.57
 
 MAX: itch: 0.08
 
-![Example Output](iud.png)
+![Example Output](iud.pdf)
 
 ====================FOR PILL====================
 
@@ -59,7 +59,7 @@ MIN: pain: -0.43
 
 MAX: tender: 0.78
 
-![Example Output](pill.png)
+![Example Output](pill.pdf)
 
 ====================FOR CONDOM====================
 
@@ -67,7 +67,7 @@ MIN: pain: -0.63
 
 MAX: bleed: 0.33
 
-![Example Output](condom.png)
+![Example Output](condom.pdf)
 
 
 ====================FOR IMPLANT====================
@@ -76,7 +76,7 @@ MIN: tire: -0.76
 
 MAX: weight gain: 0.32
 
-![Example Output](implant.png)
+![Example Output](implant.pdf)
 
 
 ====================FOR PATCH====================
@@ -85,5 +85,5 @@ MIN: cramp: -0.0
 
 MAX: weight loss: 0.23
 
-![Example Output](patch.png)
+![Example Output](patch.pdf)
 

@@ -45,7 +45,7 @@ Negative sentiment: compound score <= -0.05
 
 The results are presented as follows, indicating the sentiment toward each side effect while using one of the five birth controls. Additionally the table shows the number of occurrences, representing the number of sentences mentioning that side effect for that birth control method. This helps gauge the confidence level in the sentiment analysis.
 
-====================FOR IUD====================
+### FOR IUD
 
 MIN: rash: -0.57
 
@@ -53,7 +53,7 @@ MAX: itch: 0.08
 
 ![Example Output](iud.png)
 
-====================FOR PILL====================
+### FOR PILL
 
 MIN: pain: -0.43
 
@@ -61,7 +61,7 @@ MAX: tender: 0.78
 
 ![Example Output](pill.png)
 
-====================FOR CONDOM====================
+### FOR CONDOM
 
 MIN: pain: -0.63
 
@@ -70,7 +70,7 @@ MAX: bleed: 0.33
 ![Example Output](condom.png)
 
 
-====================FOR IMPLANT====================
+### FOR IMPLANT
 
 MIN: tire: -0.76
 
@@ -79,7 +79,7 @@ MAX: weight gain: 0.32
 ![Example Output](implant.png)
 
 
-====================FOR PATCH====================
+### FOR PATCH
 
 MIN: cramp: -0.0
 

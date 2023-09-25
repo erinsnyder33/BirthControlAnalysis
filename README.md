@@ -67,7 +67,7 @@ MIN: pain: -0.63
 
 MAX: bleed: 0.33
 
-![Example Output](condom.pdf)
+![Example Output](condom.png)
 
 
 ====================FOR IMPLANT====================
